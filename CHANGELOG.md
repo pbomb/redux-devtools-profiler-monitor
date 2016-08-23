@@ -1,4 +1,8 @@
 # Change log
 
-This project adheres to [Semantic Versioning](http://semver.org/).  
-See all notable changes on [Releases](https://github.com/pbomb/redux-devtools-profiler-monitor/releases) page.
+## 0.2.0 Release
+
+Initial release
+
+- exports ProfilerMonitor for Redux DevTools
+- exports profileActionMiddleware to profile specified dispatched action
