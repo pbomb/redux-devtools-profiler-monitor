@@ -5,7 +5,7 @@ import reducer from './reducers';
 
 const styles = {
   container: {
-    fontFamily: 'monaco, Consolas, Lucida Console, monospace',
+    fontFamily: '"Roboto Mono", "Droid Sans Mono", Monaco, Consolas, "Lucida Console", monospace',
     position: 'relative',
     overflowY: 'hidden',
     width: '100%',
