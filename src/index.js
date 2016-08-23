@@ -1,5 +1,5 @@
 import ProfilerMonitor from './ProfilerMonitor';
-import profileActionMiddleware from './profileActionMiddleware';
+import middleware from './profileActionMiddleware';
 
 export default ProfilerMonitor;
-export const middleware = profileActionMiddleware;
+export const profileActionMiddleware = middleware;
