@@ -1,5 +1,9 @@
 # Change log
 
+## 0.3.0 Release
+
+- Renamed middleware export to profileActionMiddleware
+
 ## 0.2.0 Release
 
 Initial release
