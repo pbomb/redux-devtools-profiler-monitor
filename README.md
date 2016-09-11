@@ -5,8 +5,8 @@ A custom monitor for Redux DevTools to profile a given action in Chrome DevTools
 
 ### Installation
 
-```
-npm install --save redux-devtools-profiler-monitor
+```console
+npm install --save-dev redux-devtools-profiler-monitor
 ```
 
 ### Usage
