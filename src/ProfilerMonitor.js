@@ -55,16 +55,13 @@ export default class ProfilerMonitor extends Component {
 
   render() {
     const theme = this.getTheme();
-    const {
-      monitorState,
-    } = this.props;
 
     return (
       <div style={{ ...styles.container, backgroundColor: theme.base00 }}>
         <span style={{ color: theme.base06 }}>Profile Action: </span>
         <input
           type="text"
-          value={monitorState.profileAction}
+          value={this.props.monitorState.profileAction}
           onChange={this.handleProfileActionChange}
         />
       </div>
