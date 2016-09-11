@@ -63,3 +63,9 @@ In Redux applications, each dispatched action encompasses computing the next sta
 ### Tips
 
 Always, ALWAYS, profile with the [production build of React](https://facebook.github.io/react/docs/advanced-performance.html#use-the-production-build).
+
+### Example
+
+- [Todo MVC](./examples/todomvc)
+
+![Profiler Monitor](http://g.recordit.co/0UZ3jFUWSS.gif)
