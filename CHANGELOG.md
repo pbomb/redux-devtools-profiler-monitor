@@ -1,5 +1,10 @@
 # Change log
 
+## 0.4.0 Release
+
+- Removing default export. Exporting `ProfilerMonitor` and `profileActionMiddleware` explicitly.
+- Updated dev dependencies (babel, eslint)
+
 ## 0.3.0 Release
 
 - Renamed middleware export to profileActionMiddleware
