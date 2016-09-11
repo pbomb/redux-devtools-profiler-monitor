@@ -1,5 +1,9 @@
 # Change log
 
+## 1.0.0 Release
+
+- Added Todo MVC example and gif
+
 ## 0.4.0 Release
 
 - Removing default export. Exporting `ProfilerMonitor` and `profileActionMiddleware` explicitly.
