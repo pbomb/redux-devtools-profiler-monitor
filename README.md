@@ -39,7 +39,7 @@ You can use `ProfilerMonitor` as the only monitor in your app:
 ```js
 import React from 'react';
 import { createDevTools } from 'redux-devtools';
-import ProfilerMonitor from 'redux-devtools-profiler-monitor';
+import { ProfilerMonitor } from 'redux-devtools-profiler-monitor';
 
 export default createDevTools(
   <ProfilerMonitor />
